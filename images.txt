@@ -6,4 +6,4 @@ nginx
 # --platform=linux/arm64 xiaoyaliu/alist
 ailg/alist
 ailg/ggbond
-ailg/xiaoya-tvbox
+ailg/xiaoya-tvbox:native-host
